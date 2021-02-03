@@ -11,7 +11,7 @@ The Kaitiakitanga License is a work in progress. It's a living license. It will 
 
   1. All content in the Whare Kōrero is under the kaitiaki of the respective Iwi Radio Station that placed the content into the whare.
   2. Each Station may make content available for download as deemed suitable by the kaitikitanga for that content.
-  3. You may download content to your device via this app, but the Kaitikitanga remains with the Iwi Radio Station for that content. By downloading the content to your device, unless you have kaitiki rights to the content (for example, the content may come from your whānau, hapu, or iwi, and you have rights to keep the content for your own use), you agree:
+  3. You may download content to your device via this app, but the Kaitiakitanga remains with the Iwi Radio Station for that content. By downloading the content to your device, unless you have kaitiki rights to the content (for example, the content may come from your whānau, hapu, or iwi, and you have rights to keep the content for your own use), you agree:
     a. not to extract the content from the app
     b. only view the content through the app
 
