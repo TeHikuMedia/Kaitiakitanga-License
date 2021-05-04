@@ -3,7 +3,7 @@
 ## What is Kaitiakitanga?
 Kaitiaki is a Māori word without specific English translation, but its meaning is similar to the words guardian, protector, and custodian. In this context we protect the data in this repository and will provide access to the data as we deem fit through our tikanga (Māori customs and protocols).
 
-While we recognize the importance of publicly acessible data, we're mindful that the majority of tangata whenua and other indigenous peoples may not have access to the resources that enable them to benefit from public data. As tangata whenua, our ability to grow, develop, and innovate has been stymied through colonization. We must protect our ability to grow as tangata whenua. By simply opening access to our data and knowledge, we further allow ourselves to be colonised digitally in the modern world.
+While we recognize the importance of publicly accessible data, we're mindful that the majority of tangata whenua and other indigenous peoples may not have access to the resources that enable them to benefit from public data. As tangata whenua, our ability to grow, develop, and innovate has been stymied through colonization. We must protect our ability to grow as tangata whenua. By simply opening access to our data and knowledge, we further allow ourselves to be colonised digitally in the modern world.
 
 The Kaitiakitanga License is a work in progress. It's a living license. It will evolve as we see fit. We hope to develop a license that is an international example for indigenous people's retention of mana over data and other intellectual property in a Western construct.
 
