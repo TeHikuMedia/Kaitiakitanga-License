@@ -11,7 +11,7 @@ The Kaitiakitanga License is a work in progress. It's a living license. It will 
 
   1. The kaitiakitanga of all data in the Whare Kōrero remains with the respective kaitiaki that contributed that data to the whare.
   2. Each kaitiaki may make data available for download as deemed suitable by the tikanga associated with that data.
-  3. You may download data to your device via this app, but the kaitiakitanga remains with the kaitiaki. By downloading the data to your device, unless you have kaitiki rights to the data (for example, the data may come from your whānau, hapu, or iwi, and you have rights to keep the data for your own use), you agree:
+  3. You may download data to your device via this app, but the kaitiakitanga remains with the kaitiaki. By downloading the data to your device, unless you have kaitiaki rights to the data (for example, the data may come from your whānau, hapu, or iwi, and you have rights to keep the data for your own use), you agree:
     a. not to extract the data from the app; and
     b. only access the data through the app.
 
