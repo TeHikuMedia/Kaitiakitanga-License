@@ -12,12 +12,12 @@ The Kaitiakitanga License is a work in progress. It's a living license. It will 
 
 1. Te Reo Irirangi o Te Hiku o Te Ika (Te Hiku Media) are the kaitiaki of all data you share with us from the Rongo App.
 2. Te Hiku Media may use the data you share with us to improve our services and models including but not limited to our pronunciation models(s) and our speech recognition model(s).
-3. We will only use the data you share for purposes that align with the values and tikanga of the Kaitiakitanga License as well as the revitalisation, presevation, and promotion of te reo Māori.
+3. We will only use the data you share for purposes that align with the values and tikanga of the Kaitiakitanga License as well as the revitalisation, preservation, and promotion of te reo Māori.
 4. We may use the data you share with us for Māori led research around pronunciation.
 
 ## Kaitiakitanga of Data Processed
 
-Rongo uses the Papa Reo API, which processes your data to enable features such as speech detection and pronunciation assessment. The Papa Reo API has its own [Kaitikitanga License](https://github.com/TeHikuMedia/Kaitiakitanga-License/blob/tumu/papareo_api.md) which is upheld by Rongo. Rongo runs the Papa Reo API on device.
+Rongo uses the Papa Reo API, which processes your data to enable features such as speech detection and pronunciation assessment. The Papa Reo API has its own [Kaitiakitanga License](https://github.com/TeHikuMedia/Kaitiakitanga-License/blob/tumu/papareo_api.md) which is upheld by Rongo. Rongo runs the Papa Reo API on device.
 
 1. All recordings are collected and processed on device. We don’t collect any recordings or information about the recordings unless you explicitly share your recordings with us.
 2. If you decide to share your recordings with us, you assign us as the kaitiaki of the data that you share. This includes the original recording as well as the metadata created from the recording when it was processed on your device. This metadata includes the scores that our model assigns to your recordings as well as your progress in the app.
