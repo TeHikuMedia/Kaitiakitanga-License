@@ -3,7 +3,7 @@ Repository for the development of the Kaitiakitanga License.
 
 If you'd like to use or adapt this license, you must first reach out and have a kōrero (chat) with us.
 You cannot take what is in this repo and use it for your own purposes without first reaching out to
-us (Te Hiku Media, the creators of this license).
+Te Hiku Media, the creators of this license.
 
 We will always make time to help indigenous and other underrepresented groups. 
 
