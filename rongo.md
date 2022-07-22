@@ -30,4 +30,4 @@ Search for "kaitiakitanga" in the Whare Kōrero app to learn more about it, or v
 
 ## Copyright
 
-This Kaitiakitanga License and all other license variants at https://github.com/TeHikuMedia/Kaitiakitanga-License are under Copyright © Te Reo Irirangi o Te Hiku o Te Ika. You may not simply take this license and use it without first consulting with Te Reo Irirangi o Te Hiku o Te Ika.
+This Kaitiakitanga License and all other license variants at https://github.com/TeHikuMedia/Kaitiakitanga-License are under Copyright © Te Reo Irirangi o Te Hiku o Te Ika. You may not take and/or use this license without the approval of Te Reo Irirangi o Te Hiku o Te Ika.
