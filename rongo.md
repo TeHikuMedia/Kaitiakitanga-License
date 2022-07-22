@@ -17,7 +17,7 @@ The Kaitiakitanga License is a work in progress. It's a living license. It will 
 
 ## Kaitiakitanga of Data Processed
 
-Rongo uses the Papa Reo API, which processes your data to enable features such as speech detection and pronunciation assessment. The Papa Reo API has its own [Kaitiakitanga License](https://github.com/TeHikuMedia/Kaitiakitanga-License/blob/tumu/papareo_api.md) which is upheld by Rongo. Rongo runs the Papa Reo API on device.
+Rongo uses the [Papa Reo API](https://papareo.io), which processes your data to enable features such as speech detection and pronunciation assessment. The Papa Reo API has its own [Kaitiakitanga License](https://github.com/TeHikuMedia/Kaitiakitanga-License/blob/tumu/papareo_api.md) which is upheld by Rongo. Rongo runs the Papa Reo API on device.
 
 1. All recordings are collected and processed on device. We don’t collect any recordings or information about the recordings unless you explicitly share your recordings with us.
 2. If you decide to share your recordings with us, you assign us as the kaitiaki of the data that you share. This includes the original recording as well as the metadata created from the recording when it was processed on your device. This metadata includes the scores that our model assigns to your recordings as well as your progress in the app.
@@ -26,8 +26,8 @@ Rongo uses the Papa Reo API, which processes your data to enable features such a
 
 Search for "kaitiakitanga" in the Whare Kōrero app to learn more about it, or visit [tehiku.nz](https://tehiku.nz/search?q=kaitiakitanga).
 
-**_You can view this Kaitiakitanga License and its history [here](https://github.com/TeHikuMedia/Kaitiakitanga-License/blob/tumu/rongo.md)._**
-
 ## Copyright
 
-This Kaitiakitanga License and all other license variants at https://github.com/TeHikuMedia/Kaitiakitanga-License are under Copyright © Te Reo Irirangi o Te Hiku o Te Ika. You may not take and/or use this license without the approval of Te Reo Irirangi o Te Hiku o Te Ika.
+This Kaitiakitanga License and all other License variants in the Kaitiakitanga License [repository](https://github.com/TeHikuMedia/Kaitiakitanga-License) are under Copyright © Te Reo Irirangi o Te Hiku o Te Ika. You may not take and/or use this license without the approval of Te Reo Irirangi o Te Hiku o Te Ika.
+
+**_You can view this Kaitiakitanga License and its history [here](https://github.com/TeHikuMedia/Kaitiakitanga-License/blob/tumu/rongo.md)._**
