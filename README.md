@@ -8,4 +8,4 @@ We will always make time to help indigenous and other underrepresented groups.
 
 If you are a corporate, government, or privileged person or organization we ask that you consider giving a koha (gift) for our time.
 
-Note: It is unlikely that the Kaitiakitanga License can be applied within a non-indigenous context.
+_Note: It is unlikely that the Kaitiakitanga License can be applied within a non-indigenous context._
