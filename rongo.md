@@ -27,3 +27,7 @@ Rongo uses the Papa Reo API, which processes your data to enable features such a
 Search for "kaitiakitanga" in the Whare Kōrero app to learn more about it, or visit [tehiku.nz](https://tehiku.nz/search?q=kaitiakitanga).
 
 **_You can view this Kaitiakitanga License and its history [here](https://github.com/TeHikuMedia/Kaitiakitanga-License/blob/tumu/rongo.md)._**
+
+## Copyright
+
+This Kaitiakitanga License and all other license variants at https://github.com/TeHikuMedia/Kaitiakitanga-License are under Copyright © Te Reo Irirangi o Te Hiku o Te Ika. You may not simply take this license and use it without first consulting with Te Reo Irirangi o Te Hiku o Te Ika.
