@@ -17,7 +17,9 @@ The Kaitiakitanga License is a work in progress. It's a living license. It will 
       - Unfairness
       - Building Māori corpora
       - Mining Māori data
-      - Anything that is inconsistent with the [Māori Data Soveriengty Principles](https://www.temanararaunga.maori.nz/s/TMR-Maori-Data-Sovereignty-Principles-Oct-2018.pdf) developed by [Te Mana Raraunga](https://www.temanararaunga.maori.nz/). 
+      - Anything that is inconsistent with the [Māori Data Soveriengty Principles](https://www.temanararaunga.maori.nz/s/TMR-Maori-Data-Sovereignty-Principles-Oct-2018.pdf) developed by [Te Mana Raraunga](https://www.temanararaunga.maori.nz/).
+
+**Any attempt to use Kaituhi to build Māori data sets and natural language processing models is in direct violation of the Kaitiakitanga License.**
 
 ## Kaitiakitanga of Data Uploaded to Kaituhi ##
 
