@@ -7,6 +7,18 @@ While we recognize the importance of publicly accessible tools and data, we're m
 
 The Kaitiakitanga License is a work in progress. It's a living license. It will evolve as we see fit. We hope to develop a license that is an international example for indigenous people's retention of mana over data and other intellectual property in a Western construct.
 
+## Kaitiakitanga of Kaituhi ##
+  1. The Kaitiakitanga of Kaituhi remains with Te Reo Irirangi o Te Hiku o Te Ika.
+  2. You may not use Kaituhi for:
+      - Surveillance
+      - Tracking
+      - Discrimination
+      - Persecution
+      - Unfairness
+      - Building Māori corpora
+      - Mining Māori data
+      - Anything that is inconsistent with the [Māori Data Soveriengty Principles](https://www.temanararaunga.maori.nz/s/TMR-Maori-Data-Sovereignty-Principles-Oct-2018.pdf) developed by [Te Mana Raraunga](https://www.temanararaunga.maori.nz/). 
+
 ## Kaitiakitanga of Data Uploaded to Kaituhi ##
 
   1. The kaitiakitanga of all data in Kaituhi remains with the respective kaitiaki that uploaded that data.
