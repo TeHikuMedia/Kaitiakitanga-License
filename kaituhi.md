@@ -26,7 +26,6 @@ The Kaitiakitanga License is a work in progress. It's a living license. It will 
   1. The kaitiakitanga of all data in Kaituhi remains with the respective kaitiaki that uploaded that data.
   2. Each kaitiaki may make data available to others within their Organization or "Workspace" as deemed suitable by the tikanga associated with that data.
 
-
 ## Kaitiakitanga of Data Processed ##
 Kaituhi uses the Papa Reo API, which processes your data to enable features such as speech recognition and language detection. The Papa Reo API has its own [Kaitikitanga License](https://github.com/TeHikuMedia/Kaitiakitanga-License/blob/tumu/papareo_api.md) which is upheled by Kaituhi. In general,
 
@@ -36,5 +35,9 @@ Kaituhi uses the Papa Reo API, which processes your data to enable features such
 ## Learn More
 
 Search for "kaitiakitanga" in the Whare Kōrero app to learn more about it, or visit [tehiku.nz](https://tehiku.nz/search?q=kaitiakitanga).
+
+## Copyright
+
+This Kaitiakitanga License and all other License variants in the Kaitiakitanga License [repository](https://github.com/TeHikuMedia/Kaitiakitanga-License) are under Copyright © Te Reo Irirangi o Te Hiku o Te Ika. You may not take and/or use this license without the approval of Te Reo Irirangi o Te Hiku o Te Ika.
 
 ***You can view this Kaitiakitanga License and its history [here](https://github.com/TeHikuMedia/Kaitiakitanga-License/blob/tumu/papareo_api.md).***
