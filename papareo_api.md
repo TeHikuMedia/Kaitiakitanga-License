@@ -24,7 +24,7 @@ We hope to develop a license that is an international example for indigenous peo
       - Unfairness
       - Building Māori corpora
       - Mining Māori data
-      - Anything that is inconsistent with the [Māori Data Soveriengty Principles](https://www.temanararaunga.maori.nz/s/TMR-Maori-Data-Sovereignty-Principles-Oct-2018.pdf) developed by [Te Mana Raraunga](https://www.temanararaunga.maori.nz/). 
+      - Anything that is inconsistent with the [Māori Data Sovereignty Principles](https://www.temanararaunga.maori.nz/s/TMR-Maori-Data-Sovereignty-Principles-Oct-2018.pdf) developed by [Te Mana Raraunga](https://www.temanararaunga.maori.nz/). 
 
 
 ## Kaitiakitanga of Data Processed by Tools ##
