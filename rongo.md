@@ -4,9 +4,9 @@
 
 Kaitiaki is a Māori word without specific English translation, but its meaning is similar to the words guardian, protector, and custodian. In this context, we protect the data and tools associated with the Rongo App using Māori values and protocols.
 
-While we recognize the importance of publicly accessible tools and data, we're mindful that the majority of tangata whenua and other indigenous peoples may not have access to the resources that enable them to benefit from public goods. As tangata whenua, our ability to grow, develop, and innovate has been stymied through colonization. We must protect our ability to grow as tangata whenua. By simply opening access to our tools, data and knowledge, we further allow ourselves to be colonised digitally in the modern world.
+While we recognise the importance of publicly accessible tools and data, we're mindful that the majority of tangata whenua and other Indigenous peoples may not have access to the resources that enable them to benefit from public goods. As tangata whenua, our ability to grow, develop, and innovate has been stymied through colonisation. We must protect our ability to grow as tangata whenua. By simply opening access to our tools, data and knowledge, we further allow ourselves to be colonised digitally in the modern world.
 
-The Kaitiakitanga License is a work in progress. It's a living license. It will evolve as necessary to ensure a positive future for indigenous peoples. We hope to develop a license that is an international example for indigenous people's retention of mana over data and other intellectual property in a Western construct.
+The Kaitiakitanga License is a work in progress. It's a living license. It will evolve as necessary to ensure a positive future for Indigenous peoples. We hope to develop a license that is an international example for Indigenous people's retention of mana over data and other intellectual property in a Western construct.
 
 ## Kaitiakitanga of Data Shared from Rongo
 
