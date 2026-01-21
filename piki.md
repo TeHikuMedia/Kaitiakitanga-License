@@ -4,7 +4,7 @@ By using Piki, you agree to this Kaitiakitanga License.
 
 ## What is the Kaitiakitanga License?
 
-Kaitiaki is a Māori word without specific English translation, but its meaning is similar to the words guardian, protector, and custodian. In this context, we protect the data and tools associated with the Rongo App using Māori values and protocols.
+Kaitiaki is a Māori word without specific English translation, but its meaning is similar to the words guardian, protector, and custodian. In this context, we protect the data and tools associated with the Piki App using Māori values and protocols.
 
 While we recognize the importance of publicly accessible tools and data, we're mindful that the majority of tangata whenua and other indigenous peoples may not have access to the resources that enable them to benefit from public goods. As tangata whenua, our ability to grow, develop, and innovate has been stymied through colonization. We must protect our ability to grow as tangata whenua. By simply opening access to our tools, data and knowledge, we further allow ourselves to be colonised digitally in the modern world.
 
